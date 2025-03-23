@@ -1,6 +1,6 @@
 # Uygulama Hakkında
 
-Mikroişlemciler dersi grup projemizdir.
+Bu proje mikroişlemciler dersi grup projemizdir.
 
 # Uygulama Çalıştırma Adımları:
 
