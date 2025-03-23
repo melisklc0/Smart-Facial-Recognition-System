@@ -10,6 +10,7 @@ Mobil uygulama kullanıcı adi:akif
 
 Şifre:1234 Yönetici girişini kullanabilirsiniz.
 
+
 WebSocket Sunucuları:
 
 ws://3.121.99.11:9999 (komut için)
@@ -18,6 +19,7 @@ ws://3.121.99.11:8080 (video için)
 
 WebSocket Sunucularına ücretsiz kullandığımız için IP ler bazen
 değişebiliyor.
+
 
 Ayrıca Aşağıdaki API endpointlerine PostMan ile  test edebilirsiniz.
 
