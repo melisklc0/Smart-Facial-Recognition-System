@@ -1,8 +1,15 @@
-Hocam Merhabalar Mobil Uygulamanın APK sınıda sundum.
+# Uygulama Hakkında
+
+Mikroişlemciler dersi grup projemizdir.
+
+# Uygulama Çalıştırma Adımları:
+
+Mobil Uygulamanın APK sı da proje içerisindedir.
 
 Mobil uygulama kullanıcı adi:akif 
 
-Şifre:1234 Yönetici girişini kullanabilirsiniz
+Şifre:1234 Yönetici girişini kullanabilirsiniz.
+
 
 WebSocket Sunucuları:
 
@@ -11,10 +18,10 @@ ws://3.121.99.11:9999 (komut için)
 ws://3.121.99.11:8080 (video için)
 
 WebSocket Sunucularına ücretsiz kullandığımız için IP ler bazen
-değişebiliyor.Eğer bağlanamazsanız Teams üzerinden  ulaşabilirsiniz.
+değişebiliyor.
+
 
 Ayrıca Aşağıdaki API endpointlerine PostMan ile  test edebilirsiniz.
-
 
 Check Login:https://0k7lgzdne2.execute-api.eu-central-1.amazonaws.com/CheckLogin
 
